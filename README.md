@@ -10,7 +10,7 @@ June 26, 2018
 Raymond-Daniel Reyes
 
 ### Project Description:
-For this assignment, the student was supposed to create a functioning Tax Bracket calculator.  In order to do this, the student had to use if/else statements to perform the tax calculations according to the filing status selected.  The student must also create a function that causes the taxable income, the tax estimate, and the tax bracket sections to clear and the filing status to reset to "Single" when the "Clear Calculator" button is pressed.  Much like the previous two assignments, the student will have to push the files into a respository on GitHub.
+For this assignment, the student was supposed to create a functioning Tax Bracket calculator.  In order to do this, the student had to use if/else statements to perform the tax calculations according to the filing status selected.  The student must also create a function that causes the taxable income, the tax estimate, and the tax bracket sections to clear and the filing status to reset to "Single" when the "Clear Calculator" button is pressed.  Much like the previous two assignments, the student will have to push the files into a repository on GitHub.
 
 ### View Project:
  https://rr15d.github.io/lesson5_javascript2/

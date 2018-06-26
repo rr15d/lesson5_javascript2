@@ -13,8 +13,7 @@ Raymond-Daniel Reyes
 For this assignment, the student was supposed to create a functioning Tax Bracket calculator.  In order to do this, the student had to use if/else statements to perform the tax calculations according to the filing status selected.  The student must also create a function that causes the taxable income, the tax estimate, and the tax bracket sections to clear and the filing status to reset to "Single" when the "Clear Calculator" button is pressed.  Much like the previous two assignments, the student will have to push the files into a respository on GitHub.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://rr15d.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. A function is defined as a related group of JavaScript statements that are executed as a single unit.  While identical to methods, functions are not associated with objects.
